@@ -22,3 +22,5 @@ Thumbs.db
 
 /data
 /dataset
+
+/backend/model.pt
