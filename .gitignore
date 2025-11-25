@@ -22,5 +22,7 @@ Thumbs.db
 
 /data
 /dataset
-
+/unused
 /backend/model.pt
+/backend/uploads
+/backend/labels
